@@ -9,3 +9,6 @@ An interactive financial dashboard built with Python to demonstrate API integrat
 ### 🛠️ Tech Stack
 - **Language**: Python
 - **Libraries**: Streamlit, Pandas, YFinance
+
+  
+##![App Screenshot](screenshot.JPG,screenshot2.JPG)
