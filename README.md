@@ -12,3 +12,5 @@ An interactive financial dashboard built with Python to demonstrate API integrat
 
   
 ##![App Screenshot](screenshot.JPG,screenshot2.JPG)
+
+Live Demo Link:https://global-stock-tracker-9osft3xtgmf94oknjywyfx.streamlit.app/
